@@ -20,7 +20,7 @@ A Colorado Board of Election employee has given the following tasks to complete 
 
 ## Summary
 
-Using the code attached, an analysis of the election shows that:
+Using the code attached to this report, an analysis of the election shows that:
 
 -There were 369,711 votes cast in this congressional election.  
 -The candidates were:  
@@ -40,7 +40,7 @@ Using the code attached, an analysis of the election shows that:
 -The winner of the election was:  
   -Diana DeGette who received 73.8% of the votes and 272,892 total votes.  
   
-A printed summary can be found in the following text file.
+A printed summary can be found in the following text file:
 [election_analysis.txt](https://github.com/brefrank/election-analysis/files/7281163/election_analysis.txt)
 
   
