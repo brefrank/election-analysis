@@ -46,7 +46,7 @@ A printed summary can be found in the following text file:
   
 ## Overview
 
-The purpose of this election audit analysis was to use raw data from [election_results.csv](https://github.com/brefrank/election-analysis/files/7281151/election_results.csv) to calculate accurate results for the election. With these calculations, the audit team can compare the original election results with the computer calculated results to ensure accuracy. 
+The purpose of this election audit analysis was to use raw data from the attached Election_Analysis text file to calculate accurate results for the election. With these calculations, the audit team can compare the original election results with the computer calculated results to ensure accuracy. 
 
 ## Summary
 
