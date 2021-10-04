@@ -22,23 +22,23 @@ A Colorado Board of Election employee has given the following tasks to complete 
 
 Using the code attached, an analysis of the election shows that:
 
--There were 369,711 votes cast in this congressional election.
--The candidates were:
-  -Charles Casper Stockham
-  -Diana DeGette
-  -Raymon Anthony Doane
--The total candidate resultes were:
-  -Charles Casper Stockham received 23.0% of the votes and 85,213 total votes.
-  -Diana DeGette received 73.8% of the votes and 272,892 total votes.
-  -Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
--The voter turn out per county was:
-  -Jefferson County had a 10.5% turnout which is a total of 38,855 voters.
-  -Denver County had a 82.8% turnout which is a total of 306,055 voters.
-  -Arapahoe County had a 6.7% turnout which is a total of 24,801 voters.
--The county with the highest voting turnout was:
-  -Denver County, which had a 82.8% turnout and a total of 306,055 voters.
--The winner of the election was:
-  -Diana DeGette who received 73.8% of the votes and 272,892 total votes.
+-There were 369,711 votes cast in this congressional election.  
+-The candidates were:  
+  -Charles Casper Stockham  
+  -Diana DeGette  
+  -Raymon Anthony Doane  
+-The total candidate resultes were:  
+  -Charles Casper Stockham received 23.0% of the votes and 85,213 total votes.  
+  -Diana DeGette received 73.8% of the votes and 272,892 total votes.  
+  -Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.  
+-The voter turn out per county was:  
+  -Jefferson County had a 10.5% turnout which is a total of 38,855 voters.  
+  -Denver County had a 82.8% turnout which is a total of 306,055 voters.  
+  -Arapahoe County had a 6.7% turnout which is a total of 24,801 voters.  
+-The county with the highest voting turnout was:  
+  -Denver County, which had a 82.8% turnout and a total of 306,055 voters.  
+-The winner of the election was:  
+  -Diana DeGette who received 73.8% of the votes and 272,892 total votes.  
   
 A printed summary can be found in the following text file.
 [election_analysis.txt](https://github.com/brefrank/election-analysis/files/7281163/election_analysis.txt)
